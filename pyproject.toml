@@ -1,0 +1,11 @@
+[project]
+name = "pcd-craft"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "fire>=0.7.1",
+    "open3d>=0.19.0",
+    "pathlib>=1.0.1",
+]
